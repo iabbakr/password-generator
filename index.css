@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    color: white;
 }
 .container{
     display: block;
@@ -7,18 +8,20 @@ body {
     margin-right: auto;
     height: 300px;
     width: 250px;
-    background-color: darkblue;
+    background-color: #273549;
+    padding: 20px;
 
 }
 h1{
+    color: inherit;
 
 }
 span{
-    color:aquamarine;
+    color:#55F991;
 
 }
 p{
-    color: white;
+    color: #D5D4D8;
 }
 .row{
 
@@ -29,7 +32,7 @@ p{
     align-items: center;
 }
 .btn{
-    background: aquamarine;
+    background: #10B981;
     color: white;
 }
 #pwd1, #pwd2 {
