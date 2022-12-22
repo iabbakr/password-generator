@@ -34,9 +34,16 @@ p{
 .btn{
     background: #10B981;
     color: white;
+    border: none;
+    border-radius: 3px;
+
 }
 #pwd1, #pwd2 {
     background: ;
     color: aquamarine;
+    background: #2F3E53;
+    width: 90px;
+    height: 30px;
+    
 
 }
