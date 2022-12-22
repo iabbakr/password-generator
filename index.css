@@ -1,3 +1,38 @@
 body {
     margin: 0;
 }
+.container{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 250px;
+
+}
+h1{
+
+}
+span{
+    color:aquamarine;
+
+}
+p{
+    color: white;
+}
+.row{
+
+}
+.row3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.btn{
+    background: aquamarine;
+    color: white;
+}
+#pwd1, #pwd2 {
+    background: ;
+    color: aquamarine;
+
+}
