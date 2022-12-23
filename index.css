@@ -31,6 +31,7 @@ p{
     flex-direction: row;
     align-items: center;
     justify-content: space-evenly;
+    border-top: 2px solid #2F3E53;
 }
 .btn{
     background: #10B981;
