@@ -32,6 +32,7 @@ p{
     align-items: center;
     justify-content: space-evenly;
     border-top: 2px solid #2F3E53;
+    margin-top: 40px;
 }
 .btn{
     background: #10B981;
