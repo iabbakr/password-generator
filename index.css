@@ -49,6 +49,7 @@ p{
     background: #2F3E53;
     width: 193px;
     height: 32px;
+    overflow: scroll;
     
 
 }
