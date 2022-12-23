@@ -37,14 +37,16 @@ p{
     color: white;
     border: none;
     border-radius: 3px;
+    height:42px;
+    width: 191px; 
 
 }
 #pwd1, #pwd2 {
     background: ;
     color: aquamarine;
     background: #2F3E53;
-    width: 90px;
-    height: 30px;
+    width: 192px;
+    height: 32px;
     
 
 }
