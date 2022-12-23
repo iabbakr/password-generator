@@ -9,8 +9,8 @@ function passwordGenerator(){
         let pwdI1 = Math.floor(Math.random() * characters.length);
         let pwdI2 = Math.floor(Math.random() * characters.length);
     
-        pwd11.textContent += characters[pwdI1]+15;
-        pwd22.textContent += characters[pwdI2] + 15;
+        pwd11.textContent += characters[pwdI1](2);
+        pwd22.textContent += characters[pwdI2];
     };
 };
 
