@@ -4,7 +4,7 @@ const characters = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O"
 let pwd1 = document.getElementById("pwd1");
 let pwd2 = document.getElementById("pwd2");
 
-function generatePassword(){
+function passwordGenerator(){
     for(let i=0; i<characters.length; i++){
         let pwdI1 = Math.floor(Math.random() * characters.length);
         let pwdI2 = Math.floor(Math.random() * characters.length);
