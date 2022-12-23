@@ -9,7 +9,7 @@ body {
     height: 550px;
     width: 550px;
     background-color: #273549;
-    padding: 20px;
+    padding: 40px;
 
 }
 h1{
@@ -30,7 +30,7 @@ p{
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 .btn{
     background: #10B981;
