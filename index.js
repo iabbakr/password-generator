@@ -10,7 +10,7 @@ function passwordGenerator(){
         let pwdI2 = Math.floor(Math.random() * characters.length);
     
         pwd11.textContent += characters[pwdI1]+15;
-        pwd22.textContent += characters[pwdI2]*12;
+        pwd22.textContent += characters[pwdI2];
     };
 };
 
